@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 338 96" width="338" height="96">
+<defs>
+<linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#9333EA"/>
+<stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+<g>
+<animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.25s" fill="freeze"/>
+<g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" font-weight="bold" fill="url(#nameGrad)" xml:space="preserve">
+<text x="14" y="26.0" xml:space="preserve"> _____      _____   ___   __  __ </text>
+<text x="14" y="44.0" xml:space="preserve">/ __\ \    / /_\ \ / /_\ |  \/  |</text>
+<text x="14" y="62.0" xml:space="preserve">\__ \\ \/\/ / _ \ V / _ \| |\/| |</text>
+<text x="14" y="80.0" xml:space="preserve">|___/ \_/\_/_/ \_\_/_/ \_\_|  |_|</text>
+</g>
+</g>
+</svg>
