@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="assets/whoami.svg" width="290" alt="whoami"/>
+<h3><code>swayam@github ~ $ whoami</code></h3>
 
-<br><br>
+<table>
+<tr>
+<td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="Swayam Mandhani — ASCII portrait" /></td>
+<td valign="top"><img src="./assets/ascii-name.svg" width="490" alt="SWAYAM — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-<img src="assets/ascii-portrait.svg" width="370" alt="ascii portrait"/>
-&nbsp;&nbsp;
-<img src="assets/ascii-name.svg" width="410" alt="SWAYAM"/>
-
-<br><br>
+<br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+coffee+and+cat+interruptions+into+shipped+code;Debugging+life%2C+one+prompt+at+a+time" alt="typing-svg" />
 
