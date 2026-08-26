@@ -1,21 +1,22 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="270" align="center">
-<img src="assets/ascii-portrait.svg" width="250" alt="ascii portrait"/>
-</td>
-<td width="360" align="center">
-<img src="assets/ascii-name.svg" width="340" alt="SWAYAM"/>
-</td>
-</tr>
-</table>
+<img src="assets/whoami.svg" width="290" alt="whoami"/>
+
+<br><br>
+
+<img src="assets/ascii-portrait.svg" width="370" alt="ascii portrait"/>
+&nbsp;&nbsp;
+<img src="assets/ascii-name.svg" width="410" alt="SWAYAM"/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+coffee+and+cat+interruptions+into+shipped+code;Debugging+life%2C+one+prompt+at+a+time" alt="typing-svg" />
 
-Final-Year B.Tech, Computer Engineering — PCCoE, Pune
-Full-Stack & GenAI Developer
-Co-Treasurer, ACM Student Chapter PCCoE
+<br>
+
+Final-Year B.Tech, Computer Engineering — PCCoE, Pune &nbsp;•&nbsp; Full-Stack & GenAI Developer
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-mandhani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://swayam-mandhani.vercel.app)
