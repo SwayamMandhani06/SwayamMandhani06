@@ -5,11 +5,13 @@
 <td width="270" align="center">
 <img src="assets/ascii-portrait.svg" width="250" alt="ascii portrait"/>
 </td>
-<td>
+<td width="360" align="center">
+<img src="assets/ascii-name.svg" width="340" alt="SWAYAM"/>
+</td>
+</tr>
+</table>
 
-<img src="assets/ascii-name.svg" width="320" alt="SWAYAM"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Dev+turning+coffee+and+cat+interruptions+into+shipped+code;Final-Year+CE+student+debugging+life+one+prompt+at+a+time" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+coffee+and+cat+interruptions+into+shipped+code;Debugging+life%2C+one+prompt+at+a+time" alt="typing-svg" />
 
 Final-Year B.Tech, Computer Engineering — PCCoE, Pune
 Full-Stack & GenAI Developer
@@ -21,10 +23,6 @@ Co-Treasurer, ACM Student Chapter PCCoE
 [![Email](https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayammandhani01@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oG00EqYGzuQmCVsoH73ZqwPn0KTy2ykB/view?usp=sharing)
 
-</td>
-</tr>
-</table>
-
 </div>
 
 <br>
@@ -35,12 +33,6 @@ Co-Treasurer, ACM Student Chapter PCCoE
 - Currently exploring GenAI / RAG pipelines and cloud-native architecture on AWS
 - Shipped a copyright-registered app, a published research paper, and an award-winning chapter website
 - Ask me about React/Next.js, AWS, RAG systems, or surviving back-to-back FA deadlines
-
-<details>
-<summary>real footage of my last debugging session</summary>
-<br>
-<img src="assets/debug-life.jpg" width="360"/>
-</details>
 
 <br>
 
@@ -58,14 +50,13 @@ Co-Treasurer, ACM Student Chapter PCCoE
 |---|---|---|
 | **[AgriTrade — Agro Product App](#)** <br><sub>Copyright Registered · Published, AICCoNS 2025</sub> | AI/ML, Recommendation Systems | Smart e-commerce marketplace for farmers with real-time mandi price tracking, weather intelligence, and an AI-driven recommendation engine. |
 | **[ExamSense AI](#)** | Next.js 14, TypeScript, FastAPI, MongoDB | Full-stack academic intelligence platform — JWT role auth, PDF ingestion pipeline, a RAG-based Ask-AI chat, and a topic/difficulty analytics dashboard. |
+| **[Taskly](https://github.com/SwayamMandhani06/Taskly)** · [Live](https://taskly-swayam.vercel.app/) | React 18, TypeScript, Tailwind, Zustand, Dexie.js, Supabase | Offline-first productivity app for tasks and habits — instant local writes via IndexedDB with background Supabase sync and realtime updates across devices, PIN-locked, with light/dark themes and automatic backups. |
 | **[PortfolioCloud](#)** | AWS (EC2, S3, DynamoDB, VPC, CloudWatch), Node.js | Cloud-native portfolio builder on raw AWS infra with an AI bio generator and a full admin panel. |
 | **[VaultGuard](https://github.com/SwayamMandhani06/VaultGuard)** | React, Vite, Tailwind, Node.js, Groq/LLaMA 3 | GenAI fraud-detection dashboard with RAG-style suspicious-activity report generation and an analyst feedback loop. |
 | **[NexVerse AI](#)** | Next.js 14, Three.js, Groq, Web Audio API | Immersive 3D UI/UX experiment with real-time audio visualization and a webcam-based emotion detector. |
 | **[ReqGuard](#)** | Groq + Ollama, NLP | AI-assisted requirement-conflict detector for SRS docs — flags contradictions and auto-generates Mermaid diagrams. |
 | **[Habit Tracker](https://github.com/SwayamMandhani06/Habit-Tracker)** · [Live](https://habit-tracker-swayam.vercel.app/pin?from=%2F) | Next.js, React, Tailwind, MongoDB, PWA | Offline-first Progressive Web App for habit tracking with streaks and monthly analytics. |
 | **[JourneyHub](https://github.com/SwayamMandhani06/JourneyHub)** | Node.js, Express, MongoDB | Full-stack travel agency booking platform. |
-
-<sub>Links marked `#` are placeholders — swap in the repo URL once available.</sub>
 
 <br>
 
