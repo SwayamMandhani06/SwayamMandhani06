@@ -512,7 +512,7 @@
 <text xml:space="preserve" x="436.2" y="297.8" fill="#26CDEE" font-size="14.3">.</text>
 <text xml:space="preserve" x="444.6" y="297.8" fill="#24D0EE" font-size="14.3">.</text>
 </g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.40s" fill="freeze">
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.40s" fill="freeze"/>
 <text xml:space="preserve" x="41.4" y="132.8" fill="#8F39EA" font-size="14.3">.</text>
 <text xml:space="preserve" x="49.8" y="132.8" fill="#8C3CEA" font-size="14.3">:</text>
 <text xml:space="preserve" x="58.2" y="132.8" fill="#8A40EA" font-size="14.3">:</text>
